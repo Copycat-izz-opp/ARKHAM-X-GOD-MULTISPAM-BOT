@@ -1,8 +1,8 @@
-# ARKHAM-X-GOD-MULTISPAM-BOT
+# GODꨄ︎-MULTISPAM-BOT
 
 #### 𝗗𝗘𝗣𝗟𝗢𝗬 𝗨𝗣𝗧𝗢 30 𝗕𝗢𝗧𝗦 𝗜𝗡 𝗔 𝗦𝗜𝗡𝗚𝗟𝗘 𝗔𝗣𝗣 
 ### SUDO HANDLER * plugins like (*ping), (*bigspam) , (*raid) ,(*replyraid) and more
-##   - 「[𝗢𝘄𝗻𝗲𝗿](https://t.me/YashOP_XD) ✗ [𝗢𝘄𝗻𝗲𝗿2](https://t.me/xGODWOLF)」
+##   - 「[𝗢𝘄𝗻𝗲𝗿](https://t.me/My_Love_Coming_Near) ✗ [𝗢𝘄𝗻𝗲𝗿2](https://t.me/progirl13)」
 
 <p align="center">
   <img src="https://te.legra.ph/file/1a85cf01985834708c748.jpg">
@@ -12,7 +12,7 @@
 
 ## 🚀 Deploy on Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YASHYT2233/ARKHAM-X-GOD-MULTISPAM-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Copycat-izz-opp/ARKHAM-X-GOD-MULTISPAM-BOT)
 
 ## String Session FOR  BOT AND IDS 
 
