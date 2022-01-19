@@ -11,7 +11,7 @@
       "STRING": {
         "description": "Telethon String Session",
         "value": "",
-        "required": false
+        "required": true
       },
       "STRING2": {
         "description": "Telethon String Session",
@@ -170,8 +170,8 @@
       },
       "SUDO": {
         "description": "𝚂𝚄𝙳𝙾 𝚄𝚂𝙴𝚁𝚂 𝙸𝙳",
-        "value": "1693752959",
-        "required": true
+        "value": "",
+        "required": false
       }
   },
   "addons": [{
