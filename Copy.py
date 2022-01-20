@@ -140,7 +140,7 @@ async def start_yukki():
             print("Booting Up The Client 1")
             await idk.start()
             botme = await idk.get_me()
-            await idk(functions.channels.JoinChannelRequest(channel=(""))
+            await idk(functions.channels.JoinChannelRequest(channel=""))
             await idk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
             await idk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
             await idk(functions.channels.JoinChannelRequest(channel="@ABOUT_HYPER"))
