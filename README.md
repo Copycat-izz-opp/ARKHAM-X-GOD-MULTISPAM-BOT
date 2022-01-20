@@ -34,11 +34,10 @@
 
 
 ## OFFICIAL GROUP
-   - 𝗝𝗢𝗜𝗡 [ᴏғғɪᴄɪᴀʟ ᴄʜᴀᴛ](https://t.me/ArkhamWolves) 𝗙𝗢𝗥 𝗢𝗨𝗥 𝗘𝗙𝗙𝗢𝗥𝗧𝗦
+   - 𝗝𝗢𝗜𝗡 [ᴏғғɪᴄɪᴀʟ ᴄʜᴀᴛ](https://t.me/Astro_Support) 𝗙𝗢𝗥 𝗢𝗨𝗥 𝗘𝗙𝗙𝗢𝗥𝗧𝗦
 
 ## SUPPORT CHAT
- - 𝗝𝗢𝗜𝗡 [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/ARKHAMxGOD) 𝗙𝗢𝗥 𝗔𝗡𝗬 𝗤𝗨𝗘𝗥𝗬
-
+ - 𝗝𝗢𝗜𝗡 [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/SESSION_GROUPS) 𝗙𝗢𝗥 𝗔𝗡𝗬 𝗤𝗨𝗘𝗥𝗬
 ## Credits
    - Thanks to [Yukki Team](https://t.me/officialyukki).
 
