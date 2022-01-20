@@ -1,6 +1,6 @@
 {
-  "name": " cp-X-God-MULTISPAM-BOT",
-  "description": "A POWERFULL AND FAST SPAM BOT BY @YashOP_XD and @xGODWOLF .",
+  "name": " ꨄ︎𝔾𝕆𝔻-𝕄𝕌𝕃𝕋𝕀𝕊ℙ𝔸𝕄𝔹𝕆𝕋ꨄ︎",
+  "description": "A POWERFULL AND FAST SPAM BOT BY @MY_LOVE_COMING_NEAR and @PROGIRL13 .",
   "logo": "",
   "keywords": [
     "spambot",
@@ -171,7 +171,7 @@
       "SUDO": {
         "description": "𝚂𝚄𝙳𝙾 𝚄𝚂𝙴𝚁𝚂 𝙸𝙳",
         "value": "",
-        "required": false
+        "required": true
       }
   },
   "addons": [{
