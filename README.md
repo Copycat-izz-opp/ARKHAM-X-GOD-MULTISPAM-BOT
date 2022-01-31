@@ -5,7 +5,7 @@
 ##   - 「[𝗢𝘄𝗻𝗲𝗿](https://t.me/My_Love_Coming_Near) ✗ [𝗢𝘄𝗻𝗲𝗿2](https://t.me/progirl13)」
 
 <p align="center">
-  <img src="https://te.legra.ph/file/1a85cf01985834708c748.jpg">
+  <img src="https://telegra.ph/file/e109980c513e72c720563.jpg">
 </p>
 
 
